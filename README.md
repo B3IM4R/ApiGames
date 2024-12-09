@@ -1,4 +1,4 @@
-# Api-games-x
+# Api Games
 
 a [Sails v1](https://sailsjs.com) application
 
